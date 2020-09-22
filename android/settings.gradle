@@ -1,0 +1,3 @@
+rootProject.name = 'ARappv1'
+
+include ':app'
